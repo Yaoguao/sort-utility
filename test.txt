@@ -1,5 +1,0 @@
-ssd 1 Samsung 500G
-ssd 100 Samsung 1024G
-USB-Flash 3 Kingston 6000M
-hdd 2 Samsung 2000G
-hdd 100 Samsung 1024G
