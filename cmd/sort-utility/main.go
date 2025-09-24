@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"go-sort-utility/utils/sortutils"
+	"go-utility/utils/sortutils"
 	"os"
 	"sort"
 )
