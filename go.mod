@@ -1,1 +1,1 @@
-module go-sort-utility
+module go-utility
