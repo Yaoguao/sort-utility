@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-sort-utility.iml" filepath="$PROJECT_DIR$/.idea/go-sort-utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-utility.iml" filepath="$PROJECT_DIR$/.idea/go-utility.iml" />
     </modules>
   </component>
 </project>
